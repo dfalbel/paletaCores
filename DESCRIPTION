@@ -1,0 +1,14 @@
+Package: paletaCores
+Type: Package
+Title: Cria paleta de cores a partir de imagens
+Version: 0.1
+Date: 2015-09-27
+Author: Daniel Falbel
+Maintainer: Daniel Falbel <dfalbel@gmail.com>
+Description: Cria paleta de cores a partir de imagens
+License: MIT
+LazyData: TRUE
+Suggests: knitr,
+    rmarkdown
+Depends: dplyr, magrittr
+VignetteBuilder: knitr
